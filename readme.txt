@@ -3,4 +3,5 @@ Git is free software
 This git repo is build for learning and non-business use
 This is the first patch
 learning Git control for CM
-This is Created for Merging Practice
+<<<<<<< HEAD
+This is created for Merging Practice
